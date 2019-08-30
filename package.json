@@ -1,0 +1,17 @@
+{
+  "name": "curso-bootstrap4",
+  "version": "1.0.0",
+  "description": "Curso de Bootstrap 4 - Ricardo Sanches",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramiro Alves",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
+  }
+}
